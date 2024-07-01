@@ -4,5 +4,11 @@
 
 
 
-https://github.com/AnudeepInala/SportsShop_BackEnd/assets/78262590/8288b7e0-f628-4b23-a9df-9e3538fdce2d
+https://github.com/AnudeepInala/SportsShop_BackEnd/assets/78262590/8288b7e0-f628-4b23-![ProfilePage](https://github.com/AnudeepInala/SportsShop_BackEnd/assets/78262590/a5046ea1-1d5f-4265-8555-11c1f58ccb27)
+![Homepage](https://github.com/AnudeepInala/SportsShop_BackEnd/assets/78262590/631e9bde-09a0-44ee-aba5-a23fc0a9cf73)
+![DeletePage](https://github.com/AnudeepInala/SportsShop_BackEnd/assets/78262590/563f3370-2ea6-4c4c-aa72-707ee068658c)
+![CmdToRun](https://github.com/AnudeepInala/SportsShop_BackEnd/assets/78262590/41ee0bc3-b1ae-4d24-840b-0330ca3e9474)
+![AllDisplay](https://github.com/AnudeepInala/SportsShop_BackEnd/assets/78262590/80c224bc-9575-4265-8d70-1b22f9dc1028)
+![RegisterPage](https://github.com/AnudeepInala/SportsShop_BackEnd/assets/78262590/cb9881c1-7c2e-4bc7-8f1d-f8a849fe7576)
+a9df-9e3538fdce2d
 
